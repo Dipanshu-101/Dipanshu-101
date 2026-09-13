@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [SketchHive](https://sketch-hive.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://profile-omega-azure.vercel.app/#work](https://profile-omega-azure.vercel.app/#work)
+- 👨‍💻 All of my projects are available at [https://profile-omega-azure.vercel.app/#work](https://profile-omega-azure.vercel.app)
 
 - 💬 Ask me about **Next.js, React, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS**
 
